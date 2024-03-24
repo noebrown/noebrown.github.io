@@ -46,6 +46,19 @@ icon ="fa-brands fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/noejbrown/"
 
+[menu]
+
+  [[menu.main]]
+    identifier = "Projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+ 
+  [[menu.main]]
+    identifier = "Curriculum Vitae"
+    name = "Curriculum Vitae"
+    url = "/curriculum vitae/"
+    weight = 10
 
 [taxonomies]
 category = "categories"
