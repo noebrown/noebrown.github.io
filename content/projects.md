@@ -20,11 +20,11 @@ I employed specialized Python neuroscience modeling libraries to construct model
 [Project Repository](https://github.com/noebrown/ManisLabUndergradResearch)
 
 &NewLine;
-Languages/Tools: Python and NEURON Python library
+Languages/Tools: Python and NEURON library
 
 **Contributions to Consul-Terraform-Sync at HashiCorp**\
 Created a intentions feature for Consul-Terraform-Sync product. Consul Intentions allows users to define access controls for services. This feature can aid in managing networking infrastructure. We would like to add the capabilities of Consul Intentions to Consul-Terraform-Sync in two phases; support Consul Intentions as a module input and then as a condition. \
-[Project Repository](https://github.com/encrypted-tao/encrypted-tao](https://github.com/noejbrown/terraform-local-cts-intentions-module)https://github.com/noejbrown/terraform-local-cts-intentions-module) 
+[Project Repository](https://github.com/noejbrown/terraform-local-cts-intentions-module) 
 
 &NewLine;
 Languages/Tools: Go, SQL, JSON
