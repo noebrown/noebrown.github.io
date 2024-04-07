@@ -25,6 +25,12 @@ August 2019 - August 2023 \
   - Conducted statistical analysis in R on healthcare utilization data from NC Medicaid and regional insurance plans, offering key insights for informed healthcare planning 
   - Presented research findings on final program day and responded to inquiries from audience to advance overall understanding 
 
+- **SuperWorld: Blockchain Researcher Intern | February 2021 - February 2022** 
+  -  Designed and implemented blockchain analytic models using on-chain data to analyze financial transaction data, enabling predictive analysis for informed decision-making.
+  -  Conducted research on blockchain protocol/applications and presented finding to team in a concise manner
+  -  Read the latest research and provided relevant findings for data infrastructure development for engineering
+and product development teams
+
 - **Manis Lab UNC: Undergraduate Researcher | July 2020 - February 2022** 
   - Applied immunohistochemistry techniques on fixed slices and cochleae to label individual cells and fibers in the brain and cochlea 
   - Leveraged Python programming for data acquisition and analysis of electrophysiological and imaging data, demonstrating proficiency in coding for scientific instrumentation 
@@ -36,11 +42,6 @@ August 2019 - August 2023 \
   - Programmed a Golang-based automation feature, enhancing seamless service-to-service communication, authorization, and encryption exchange between Consul and Terraform.
   - Co-led the development of a Consul automation tooling project, resulting in improved functionality and efficiency.
   - Conducted thorough research, proposed innovative solutions, and produced comprehensive documentation, contributing to the successful deployment of the co-owned project.
- 
-- **SuperWorld: Blockchain Development Intern | February 2021 - February 2022** 
-  - Engineered automation features for blockchain smart contracts using the Solidity programming language, enhancing efficiency and functionality.
-  - Designed and implemented blockchain analytic models in Tableau to analyze financial transaction data, enabling predictive analysis for informed decision-making.
-
 
 **Volunteering**
 - **Prison Mathematics Project | 2023 - Ongoing** 
