@@ -38,11 +38,19 @@ and product development teams
 
 
 **Industry Experience**
+- **Graphdress: Software Engineering Co-op | Aug 2023 - Aug 2024**
+
+  - Leveraged Python for backend logic and data processing, SQL for database management, and Spark for distributed data processing tasks.
+  - Collaborated with senior engineers to architect and implement scalable solutions, optimizing codebase performance through efficient algorithm design and utilization of distributed computing techniques.
+  - Participated in Agile development methodologies, contributing to daily stand-ups, sprint planning, and rigorous code reviews to ensure adherence to coding standards and timely delivery for software solutions.
+  - Designed and implemented complex algorithms for parsing, analyzing, and visualizing blockchain data
+ 
 - **HashiCorp: Software Engineering Intern | Summer 2022**
 
   - Programmed a Golang-based automation feature, enhancing seamless service-to-service communication, authorization, and encryption exchange between Consul and Terraform.
   - Co-led the development of a Consul automation tooling project, resulting in improved functionality and efficiency.
   - Conducted thorough research, proposed innovative solutions, and produced comprehensive documentation, contributing to the successful deployment of the co-owned project.
+ 
 
 **Volunteering**
 - **Prison Mathematics Project | 2023 - Ongoing** 
@@ -59,7 +67,7 @@ and product development teams
   - Created outlines and guides to provide to students with educational aids
   - Adapted different teaching strategies to accommodate diverse learning styles and student needs 
  
-  - **Museum of Life and Science, Durham, NC | 2020 - 2023** 
+- **Museum of Life and Science, Durham, NC | 2020 - 2023** 
   - Participated in various events hosted such as the Black Excellence in Science and Black History Month events
   - Educated visitors on science topics at interactive booths and answered questions
   - Demonstrated live experiments to display science concepts, increasing engagement and understanding
@@ -71,7 +79,7 @@ and product development teams
   - Collaborated with a team of three to create an application leveraging databases to offer resources for expectant parents. The app provides information on care options, potential complications, and related organizations
   - Conducted a comprehensive literature review examining the current landscape of natal care in the U.S., with a specific focus on marginalized women
 
-- **Moolah, Personal Finance Application | January 2023 - Ongoing4** 
+- **Moolah, Personal Finance Application | January 2023 - May 2024** 
   - Integrated third-party financial APIs for features such as transaction aggregation, budget tracking, and investment portfolio management
   - Optimized backend processes for handling sensitive financial data, implementing encryption and security best practices to protect user privacy
   - Conducted code reviews, performed unit testing, and participated in sprint planning and retrospective meetings to ensure code quality
@@ -89,8 +97,8 @@ and product development teams
 
 **Technical Skills** \
 **Programming Language**: Python, Golang, Java, SQL, Swift/SwiftUI, Solidity
-**Frameworks/Databases**: MySQL, MongDB, Apache Spark,  Matlab, MatplotLib, NumPy, SciPy, Pandas,PyTorch, TensorFlow
-**Software**: Git, SQL, Xcode, Mathematica, Matlab, Excel
+**Frameworks/Databases**: GraphQL, MySQL, MongDB, Apache Spark,  Matlab, MatplotLib, NumPy, SciPy, Pandas,PyTorch, TensorFlow
+**Software/Tools**: Git, SQL, Xcode, Mathematica, Matlab, Excel, Terraform, Consul, AWS
 
 
 **Technical Skills** \
