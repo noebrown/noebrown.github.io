@@ -31,14 +31,15 @@ August 2019 - August 2023 \
   -  Read the latest research and provided relevant findings for data infrastructure development for engineering
 and product development teams
 
-- **Manis Lab UNC: Undergraduate Researcher | July 2020 - February 2022** 
+- **Manis Lab UNC: Undergraduate Researcher | July 2020 - February 2022**
   - Applied immunohistochemistry techniques on fixed slices and cochleae to label individual cells and fibers in the brain and cochlea 
   - Leveraged Python programming for data acquisition and analysis of electrophysiological and imaging data, demonstrating proficiency in coding for scientific instrumentation 
   - Utilized specialized Python neuroscience modeling libraries to create models of potassium ion channel alterations in the brain. Incorporated data from brain slices and relevant research papers for accurate and insightful modeling
 
 
 **Industry Experience**
-- **HashiCorp: Software Engineering Intern | Summer 2022** 
+- **HashiCorp: Software Engineering Intern | Summer 2022**
+
   - Programmed a Golang-based automation feature, enhancing seamless service-to-service communication, authorization, and encryption exchange between Consul and Terraform.
   - Co-led the development of a Consul automation tooling project, resulting in improved functionality and efficiency.
   - Conducted thorough research, proposed innovative solutions, and produced comprehensive documentation, contributing to the successful deployment of the co-owned project.
