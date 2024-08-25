@@ -15,7 +15,7 @@ August 2019 - August 2023 \
 
 
 **Research Experience** 
-- **Huettel Lab Duke: Undergraduate Researcher | Spring Semester 2022** 
+- **Huettel Lab Duke: Undergraduate Researcher | Jan 2022 - Jan 2023** 
   - Designed and executed experiments to determine if the data collected from placing a PADS laser on Broca's area was accurate 
   - Redesigned the graphical user interface for results to better visualize and facilitate easier interpretation of the data 
   - Evaluated data integrity and usefulness, by comparing fNIRS Kernel Flow data readings and PADS laser readings to ensure accuracy
