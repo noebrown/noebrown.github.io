@@ -8,8 +8,7 @@ author_profile: true
 
 **Education**
 - **The University of North Carolina, Chapel Hill, NC** \
-B.A. in Computer Science \
-August 2019 - August 2023 \
+Bachelor's in Computer Science \
 **Honors/Societies**: Chancellor’s Science Scholar, National Society of Black Engineers, Association of Computing Machinery, UNC’s Honors College \
 **Coursework**: Data Structures, Computer Organization, Files and Databases, Algorithms and Analysis, Models of Languages and Computation, Introduction to Machine Learning
 
