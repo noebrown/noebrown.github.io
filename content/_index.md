@@ -12,4 +12,5 @@ I am a recent Computer Science graduate from The University of North Carolina. W
 
 During my undergraduate degree I worked in the [Paul Manis Lab](http://www.manislab.org) modeling bushy axons in the brain. I also worked in the [Huttel Lab](https://sites.duke.edu/huettellab/) at Duke University analyzing data from a PADS laser. I participated in the [Duke STAR (Summer Training in Academic Research)](https://dcri.org/education/dukes-star-program) program where I did research on COVID-19 vaccinations rates and access to private healthcare. 
 
-I am currently working on the [Otoro Wallet](https://github.com/otoro-wallet), an open source project that wants to make managing your Ethereum wallets a breeze! 
+I am currently employed as an Engineer at CData Software and I am working on the [Otoro Wallet](https://github.com/otoro-wallet), a project that wants to make analytics on crypto wallets simple and easy. 
+
