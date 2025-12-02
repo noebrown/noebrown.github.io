@@ -41,10 +41,10 @@ icon = "fa-solid fa-envelope"
 title = "Email"
 url = "mailto:noejbrown@gmail.com"
 
-[[params.socialLinks]]
-icon ="fa-brands fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/noejbrown/"
+# [[params.socialLinks]]
+# icon ="fa-brands fa-linkedin"
+# title = "Linkedin"
+# url = "https://www.linkedin.com/in/noejbrown/"
 
 [menu]
 
