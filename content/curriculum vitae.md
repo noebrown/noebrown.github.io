@@ -39,10 +39,10 @@ and product development teams
 **Industry Experience**
 - **CData Software: Technical Support Engineer  | Feb 2025 - Ongoing**
 
-  - Delivered technical customer support for CData Sync, resolving 70+ cases in less than a year for business customers, including Fortune 500 companies.
+  - Delivered technical customer support for CData Sync, resolving 100+ cases in less than a year for business customers, including Fortune 500 companies.
   - Troubleshot complex data integration issues by writing SQL queries and API requests, setting up cross-platform test environments (Windows, Linux, Mac), and replicating customer use cases.
   - Partnered with presales, engineering, and management teams to report bugs, escalate issues, and present feature requests, ensuring timely resolution and product improvements.
-  - Authored knowledge base articles, troubleshooting guides, and FAQs, while providing clear, tailored communication to both technical and non-technical users via email and video meetings.
+  - Authored knowledge base articles and troubleshooting guides, while providing clear, tailored communication to both technical and non-technical users via email and video meetings.
  
 - **Fidelity Investments: Customer Relationship Advocate  | April 2024 - Feb 2025**
 
