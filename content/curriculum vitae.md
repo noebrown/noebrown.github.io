@@ -108,8 +108,8 @@ and product development teams
 
 
 **Technical Skills** \
-**Programming Language**: Python, Golang, Java, SQL, Swift/SwiftUI, Solidity
-**Frameworks/Databases**: GraphQL, MySQL, MongDB, Apache Spark,  Matlab, MatplotLib, NumPy, SciPy, Pandas,PyTorch, TensorFlow
+**Programming Language**: Python, Golang, Java, SQL, Swift/SwiftUI, Solidity \
+**Frameworks/Databases**: GraphQL, MySQL, MongDB, Apache Spark,  Matlab, MatplotLib, NumPy, SciPy, Pandas,PyTorch, TensorFlow \
 **Software/Tools**: Git, SQL, Xcode, Mathematica, Matlab, Excel, Terraform, Consul, AWS
 
 
